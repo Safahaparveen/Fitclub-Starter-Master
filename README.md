@@ -2,6 +2,7 @@
                                        🏋️‍♂️ Fitness Club Master
 
 📌 Description
+
 A responsive fitness tracking and workout planning system built using HTML, CSS, and JavaScript. Helps users log workouts, track progress, and plan fitness routines.
 
 🚀 Features
